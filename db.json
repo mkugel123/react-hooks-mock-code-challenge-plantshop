@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Basil",
+      "image": "https://cdn.shopify.com/s/files/1/0019/9131/1413/products/Basil_plant_in_terracotta_pot_800x.jpg?v=1571719135",
+      "price": "7.99",
+      "id": 8
+    },
+    {
+      "name": "Parsley",
+      "image": "https://cdn11.bigcommerce.com/s-2drwt2az/images/stencil/original/products/51443/119131/apin6gfum__70459.1616764288.jpg?c=2",
+      "price": "18.64",
+      "id": 9
     }
   ]
 }
